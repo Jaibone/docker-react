@@ -12,9 +12,9 @@ class App extends Component {
         </div>
         <p className="App-intro">
           Let's hear it for Nerdery!
-          This is hosted on AWS Elastic Beanstalk, deployed from a Ununtu VM on my Win 10 PC.
+          This is hosted on AWS Elastic Beanstalk, deployed from an Ubuntu VM on my Win 10 PC through Tavis CI.
           Shout out to the gray beards learning new sh!t.
-          
+
           Rm9yIENocmlzIGFuZCBNYXggYmVjYXVzZSB0aGVyZSBpcyBzb21lICdhcnQnIGluIHRoaXMgc2NpZW5jZS4KJ09rIEJvYic=
         </p>
       </div>
