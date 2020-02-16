@@ -11,7 +11,11 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-          Yo bro! Wassup? Blueberries? :(
+          Let's hear it for Nerdery!
+          This is hosted on AWS Elastic Beanstalk, deployed from a Ununtu VM on my Win 10 PC.
+          Shout out to the gray beards learning new sh!t.
+          
+          Rm9yIENocmlzIGFuZCBNYXggYmVjYXVzZSB0aGVyZSBpcyBzb21lICdhcnQnIGluIHRoaXMgc2NpZW5jZS4KJ09rIEJvYic=
         </p>
       </div>
     );
